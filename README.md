@@ -23,3 +23,6 @@ A simple example of auto layout with two textfields that split the screen
   - Second field's Trailing with the superview's traling and a constant of -10
 
 ###Good luck
+
+![Portrait](httphttp://f.cl.ly/items/1V2s0I3w2O37220R272S/Portrait.png)
+![Landscape](http://f.cl.ly/items/0W3t3c0Z0e1z3u1Y0j3A/Landscape.png)
