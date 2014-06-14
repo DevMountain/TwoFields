@@ -4,12 +4,12 @@ TwoFields
 A simple example of auto layout with two textfields that split the screen
 
 ###Quick Lesson: Control Drag in Storyboard.
-	- Ctrl click and drag within a view 
-	  - For width (ctrl click and then drag to side) 
-	  - For height (ctrl click and drag up or down)
-	- Ctrl click and drag from one view to another to align attributes
-		- You can change the attributes in the dropdown in the inspector
-		  - For example, you could click and drag to align the center x of two views, but then change it so that it aligns the center of one view with the leading (or trailing) edge of another.
+- Ctrl click and drag within a view 
+  - For width (ctrl click and then drag to side) 
+  - For height (ctrl click and drag up or down)
+- Ctrl click and drag from one view to another to align attributes
+  - You can change the attributes in the dropdown in the inspector
+  - For example, you could click and drag to align the center x of two views, but then change it so that it aligns the center of one view with the leading (or trailing) edge of another.
 
 ###Instructions
 
