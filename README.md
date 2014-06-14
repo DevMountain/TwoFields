@@ -24,5 +24,5 @@ A simple example of auto layout with two textfields that split the screen
 
 ###Good luck
 
-![Portrait](http://f.cl.ly/items/1V2s0I3w2O37220R272S/Portrait.png)
+![Portrait](http://cl.ly/image/1k1Q1Z1u2v0q/Portrait.png)
 ![Landscape](http://f.cl.ly/items/0W3t3c0Z0e1z3u1Y0j3A/Landscape.png)
